@@ -2,7 +2,7 @@
 - 👀 I’m interested in Terraform, Python, Ansible, Bash
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Devops 
-- 📫 How to reach me https://www.linkedin.com/in/abhiramthejas/
+- 📫 Reach me https://www.linkedin.com/in/abhiramthejas/
 
 <!---
 abhiramthejas/abhiramthejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
